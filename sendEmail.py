@@ -1,5 +1,9 @@
 ﻿# -*- coding : utf-8 -*-
 
+# Author: Kevin
+# Email: testcn@msn.com
+# Version: v1.0
+
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.MIMEBase import MIMEBase
